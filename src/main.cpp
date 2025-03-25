@@ -58,7 +58,7 @@ void loop() {
   display.setTextSize(1);
   display.setTextColor(SH110X_WHITE);
   display.setCursor(5, 10);
-  display.println("Hello, World!!!!");
+  display.println("Hello, Worlds !!!!");
   display.display();
   delay(2000);
 }

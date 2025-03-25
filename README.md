@@ -43,6 +43,10 @@ See the [Hardware Setup](https://github.com/tildemark/ESP32-OLED-GME12864-78/wik
 
 * Simulate the project using the Wokwi VS Code extension. See the [Wokwi VS Code Extension](https://github.com/tildemark/ESP32-OLED-GME12864-78/wiki/Wokwi-VS-Code-Extension) wiki page.
 
+## Actual Demo
+
+[![ESP32 OLED Display Demo](https://i.ytimg.com/vi/dMohdxYCU6c/maxresdefault.jpg)](https://www.youtube.com/shorts/dMohdxYCU6c)
+
 ## Troubleshooting
 
 See the [Troubleshooting](https://github.com/tildemark/ESP32-OLED-GME12864-78/wiki/Troubleshooting) wiki page for solutions to common issues.
